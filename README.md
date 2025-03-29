@@ -12,3 +12,16 @@
 
  - Запустить plot_pics.py
 
+
+Используемые библиотеки:
+
+matplotlib==3.10.1
+
+pandas==2.2.3
+
+prefect==3.2.14
+
+selenium==4.29.0
+
+webdriver-manager==4.0.2
+
