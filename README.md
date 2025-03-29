@@ -1,3 +1,6 @@
-Create database running db.py
+Для создания БД (local sqlite3 moex_db.db) запустить db.py
 
-Run pref_sc.py to add flow task to Prefect
+Запустить pref_sc.py для добавления задаци в Prefect
+
+Запустить plot_pics.py для создания файлов с графиками для каждого тикера
+
